@@ -52,8 +52,6 @@ https://git-scm.com/book/ru/v2/Введение-Установка-Git
 
 * git checkout master – вернуться к актуальному состоянию
 
-* git checkout master – вернуться к актуальному состоянию
-
 * git branch "name_branch" - создать новую ветку
 
 * git checkout "name_branch" - прейти на другую ветку
