@@ -93,4 +93,10 @@ https://git-scm.com/book/ru/v2/Введение-Установка-Git
 ![Яблоко](Apple.jpg)
 
 
-######
+* git log --oneline -- graph - просмотреть все комиты веток в сокращеном виде
+
+* git checkout -b "name_branch" - создать новую ветку и сразу на нее перейти
+
+* git restore --staged <File> - отменить индексацию файла
+
+* git commit -- amend - добавть к сохраненному комиту
