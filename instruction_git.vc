@@ -50,7 +50,6 @@ https://git-scm.com/book/ru/v2/Введение-Установка-Git
     
     **git checkout "0bc2"** или **git checkout "0bc2d11bf5d008c0c985aa1937727417982903fd"**
 
-<<<<<<< HEAD
 * git checkout master – вернуться к актуальному состоянию
 
 * git branch "name_branch" - создать новую ветку
@@ -70,9 +69,3 @@ https://git-scm.com/book/ru/v2/Введение-Установка-Git
 * git restore --staged <File> - отменить индексацию файла
 
 * git commit -- amend - добавть к сохраненному комиту
-=======
-
-
-
-
->>>>>>> siting2
